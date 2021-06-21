@@ -1,4 +1,4 @@
-package com.nikhil.tsf_banking;
+package com.abhinav.tsf_banking;
 
 import org.junit.Test;
 
